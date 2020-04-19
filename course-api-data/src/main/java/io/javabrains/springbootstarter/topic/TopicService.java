@@ -21,8 +21,7 @@ public class TopicService {
 			new Topic("Spring1","Syed","Decription 1"),
 			
 			new Topic("Spring1","Syed3","Decription 3")
-			new Topic("Spring1","Syed3","Decription 4")
-
+			
 			)
 			);
 	/*a1.add(new Topic("Spring1","Syed","Decription 1"));
