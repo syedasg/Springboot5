@@ -8,6 +8,7 @@ public class CourseApiDataApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CourseApiDataApplication.class, args);
+		System.out.println("java");
 	}
 
 }
