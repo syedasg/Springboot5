@@ -8,6 +8,7 @@ class CourseApiDataApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println("skgfsk");
 	}
 
 }
